@@ -1,0 +1,26 @@
+# 🚆 Simulation of Passenger Density in BTS Green Line
+
+โปรเจกต์นี้เป็นการจำลองความหนาแน่นของผู้โดยสารในรถไฟฟ้า BTS สายสีเขียว  
+เพื่อวิเคราะห์รูปแบบการเดินทางและช่วยในการวางแผนระบบขนส่ง
+
+---
+
+## 📌 Features
+- วิเคราะห์จำนวนผู้โดยสารในแต่ละสถานี
+- จำลองความหนาแน่นในช่วงทางเข้าออกสถานี ประตูรถไฟ บันไดขึ้นลง
+- ใช้ข้อมูลเพื่อช่วยตัดสินใจด้านการจัดการระบบ
+
+---
+
+## 🖼️ Example Output
+
+![Passenger Density](https://via.placeholder.com/800x400.png?text=Passenger+Density+Simulation)
+
+---
+
+## 🛠️ Technologies Used
+- Progran Anylogic
+
+<p align="center">
+  <img src="images/result.png" width="600">
+</p>
