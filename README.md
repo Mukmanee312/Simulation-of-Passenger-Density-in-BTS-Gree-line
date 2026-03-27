@@ -13,9 +13,11 @@
 ---
 
 ## 🖼️ Example Output
+ก่อนปรับปรุง จำนวน 4 ตู้ หนาแน่นบริเวณทางเข้าออกประตูรถไฟ 
+ <img src="https://github.com/Mukmanee312/image/blob/main/image (42).png" >
+ หลังปรับปรุง เพิ่มจำนวนตู้เพื่อรองรับผู้โดยสาร เพิ่มรอบรถไฟ ปรับเวลาขึ้นลงผู้โดยสาร
+  <img src="https://github.com/Mukmanee312/image/blob/main/image (43).png" >
 
- <img src="https://github.com/Mukmanee312/image/blob/main/Screenshot 2026-03-27 175829กก.png" >
-<img src="https://github.com/Mukmanee312/image/blob/main/Screenshot 2026-03-27 175829.png" >
 
 ---
 
